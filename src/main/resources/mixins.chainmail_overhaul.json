@@ -1,0 +1,9 @@
+{
+  "required": true,
+  "package": "net.rayways303.chainmail_overhaul.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "ArmorMaterialsMixin",
+    "PlayerSweepMixin"
+  ]
+}
